@@ -89,5 +89,8 @@
   <ItemGroup>
     <None Include="Resources\imageedit_5_9567127544.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Royalty Free Music - Smooth Jazz Instrumental for Movie Soundtrack.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
