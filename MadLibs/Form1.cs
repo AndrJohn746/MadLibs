@@ -25,7 +25,7 @@ namespace MadLibs
         public Form1()
         {
             InitializeComponent();
-
+            //plays music
             BGM.PlayLooping();
         }
 
